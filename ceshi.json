@@ -688,7 +688,7 @@
       "changeable": 0,
       "ext": "https://fanty.run.goorm.site/ext/高中课堂.json"
     },
-    {
+       {
        "key":"csp_AList",
        "name":"💕AList",
        "type":3,
@@ -698,13 +698,13 @@
        "ext":{"drives":[{"name":"罗汉果","server":"https://lala-ofbip.run.goorm.site/"}]}
      },
       {
-        "key":"91md",
-        "name":"🍎91md(墙外)",
-        "type":1,
-        "api":"https://91md.me/api.php/provide/vod/from/mdm3u8/",
-        "searchable":1,
-        "quickSearch":1,
-        "filterable":1
+       "key":"91md",
+       "name":"🍎91md(墙外)",
+       "type":1,
+       "api":"https://91md.me/api.php/provide/vod/from/mdm3u8/",
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":1
       },
    {
      "key":"玉兔资源",
@@ -742,7 +742,8 @@
       "searchable":1,
       "changeable":1,
       "quickSearch":1,
-      "filterable":1},
+      "filterable":1
+   },
     {
       "key": "fan",
       "name": "导航 https://饭太硬.top",
