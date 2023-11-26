@@ -9,7 +9,15 @@
   "sites":[
     {"key":"","name":"💕防失联关注公众号[CandyMuj]","type":3,"api":"","searchable":0},
 
-    {"key":"csp_CandyMuj_haokongbu","name":"💖好恐怖(直连)","type":3,"api":"csp_CandyMuj_haokongbu","searchable":1,"quickSearch":1,"filterable":1,"categories":["伦理"]},
+    {"key":"csp_CandyMuj_haokongbu",
+      "name":"💖好恐怖(直连)",
+      "type":3,
+      "api":"csp_CandyMuj_haokongbu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "categories":["伦理"]},
+    
     {"key":"csp_CandyMuj_lm5","name":"💖星辰影院(直连)","type":3,"api":"csp_CandyMuj_lm5","searchable":1,"quickSearch":1,"filterable":0,"categories":["伦理","野花"]},
     {"key":"csp_CandyMuj_iwant","name":"💖iwant(墙外)","type":3,"api":"csp_CandyMuj_iwant","click":".vjs-big-play-button","searchable":1,"quickSearch":1,"filterable":0,"style":{"type":"rect","ratio":1.33},"ext":"192.168.101.11:10031"},
     {"key":"csp_CandyMuj_rou","name":"💖肉视频(墙外)","type":3,"api":"csp_CandyMuj_rou","searchable":1,"quickSearch":1,"filterable":1,"style":{"type":"rect","ratio":1.33},"ext":"192.168.101.11:10031"},
@@ -25,7 +33,7 @@
     {"key":"bttcj.com","name":"🍒成人05(直连)","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"filterable":1},
     {"key":"apilj.com","name":"🍒成人06(墙外)","type":1,"api":"http://apilj.com/api.php/provide/vod/at/json/","searchable":1,"filterable":1},
     {"key":"wmcj8.com","name":"🍒成人07(直连)","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"filterable":1},
-    {"key":"99zywcj.com","name":"🍒成人08(直连)","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":1,"filterable":1},
+    {"key":"99zywcj.com","name":"🍒成人08(直连)","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist"，"searchable":1,"filterable":1},
     {"key":"91md.me","name":"🍒成人09(墙外)","type":1,"api":"http://91md.me/api.php/provide/vod/","searchable":1,"filterable":1},
     //{"key":"api.putaozy.net","name":"🍒成人10(墙外)","type":1,"api":"http://api.putaozy.net/inc/apijson_vod.php","searchable":1,"filterable":1},
     {"key":"mygzycj.com","name":"🍒成人11(直连)","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"filterable":1},
