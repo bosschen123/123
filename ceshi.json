@@ -710,8 +710,8 @@
       "key":"csp_CandyMuj_iwant",
       "name":"💖iwant(墙外)",
       "type":3,
-      "api":"csp_CandyMuj_iwant"
-      ，"click":".vjs-big-play-button",
+      "api":"csp_CandyMuj_iwant"，
+      "click":".vjs-big-play-button",
       "searchable":1,"quickSearch":1,
       "filterable":0,
       "style":{"type":"rect","ratio":1.33},
