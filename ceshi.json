@@ -697,6 +697,14 @@
        "changeable":0,
        "ext":{"drives":[{"name":"罗汉果","server":"https://lala-ofbip.run.goorm.site/"}]}
      },
+    {
+      "key":"kkzy.me",
+      "name":"🍒成人36(直连)",
+      "type":1,
+      "api":"https://kkzy.me/api.php/provide/vod/",
+      "searchable":1,
+      "filterable":1
+    },
       {
        "key":"91md",
        "name":"🍎91md(墙外)",
@@ -743,6 +751,42 @@
       "quickSearch":1,
       "filterable":0
     },
+    {
+      "key":"黄A",
+      "name":"🥇黄A",
+      "type":0,
+      "api":"https://www.pgxdy.com/api/xml.php",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+     {
+       "key":"白嫖",
+       "name":"🥇白嫖",
+       "type":0,
+       "api":"https://www.kxgav.com/api/xml.php",
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":1
+     },
+    {
+      "key":"小湿妹",
+      "name":"🥇小湿妹",
+      "type":0,
+      "api":"https://www.afasu.com/api/xml.php",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+     {
+       "key":"JAV名优",
+       "name":"🥇JAV名优",
+       "type":0,
+       "api":"http://mygzycj.com/api.php?ac=list",
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":0
+     },
    {
      "key":"timizy",
       "name":"🍓甜蜜资源 (直连)",
