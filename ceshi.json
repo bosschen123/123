@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "陈大佬专属",
+      "name": "🌕陈大佬专属",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -688,6 +688,23 @@
       "changeable": 0,
       "ext": "https://fanty.run.goorm.site/ext/高中课堂.json"
     },
+    {
+      "key": "fan",
+      "name": "导航 https://饭太硬.top",
+      "type": 3,
+      "api": "csp_fan",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "cc",
+      "name": "请勿相信视频中任何广告",
+      "type": 3,
+      "api": "csp_fan",
+      "searchable": 0,
+      "quickSearch": 0
+    }
   ],
   "parses": [
     {
@@ -696,7 +713,7 @@
       "url": "Demo"
     },
     {
-      "name": "神秘的哥哥们",
+      "name": "陈大佬专属",
       "type": 1,
       "url": "http://api.888484.xyz/jiexi/米太硬.php?url=",
       "ext": {
