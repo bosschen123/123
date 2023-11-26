@@ -734,6 +734,15 @@
       "filterable":1,
       "ext":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/js/lf_live1.txt"
     },
+    {
+      "key":"CK资源",
+      "name":"🍀CK资源",
+      "type":1,
+      "api":"http://www.feifei67.com/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0
+    },
    {
      "key":"timizy",
       "name":"🍓甜蜜资源 (直连)",
