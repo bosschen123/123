@@ -688,15 +688,6 @@
       "changeable": 0,
       "ext": "https://fanty.run.goorm.site/ext/高中课堂.json"
     },
-     {
-       "key":"csp_AList",
-       "name":"💕AList",
-       "type":3,
-       "api":"csp_AList",
-       "searchable":1,
-       "changeable":0,
-       "ext":{"drives":[{"name":"罗汉果","server":"https://lala-ofbip.run.goorm.site/"}]}
-     },
       {
         "key":"91md",
         "name":"🍎91md(墙外)",
