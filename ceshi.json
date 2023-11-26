@@ -11,14 +11,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {"key":"timizy",
-      "name":"🍓甜蜜资源 (直连)",
-      "type":1,
-      "api":"https://timizy10.cc/api.php/provide/vod/?ac=list",
-      "searchable":1,
-      "changeable":1,
-      "quickSearch":1,
-      "filterable":1},
     {
       "key": "玩偶哥哥",
       "name": "👽玩偶哥哥┃4K弹幕",
@@ -696,23 +688,82 @@
       "changeable": 0,
       "ext": "https://fanty.run.goorm.site/ext/高中课堂.json"
     },
+     {
+       "key":"csp_AList",
+       "name":"💕AList",
+       "type":3,
+       "api":"csp_AList",
+       "searchable":1,
+       "changeable":0,
+       "ext":{"drives":[{"name":"罗汉果","server":"https://lala-ofbip.run.goorm.site/"}]}
+     },
+      {
+        "key":"91md",
+        "name":"🍎91md(墙外)",
+        "type":1,
+        "api":"https://91md.me/api.php/provide/vod/from/mdm3u8/",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1
+      },
     {
-      "key": "fan",
-      "name": "导航 https://饭太硬.top",
-      "type": 3,
-      "api": "csp_fan",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
+      "key":"csp_CandyMuj_iwant",
+      "name":"💖iwant(墙外)",
+      "type":3,
+      "api":"csp_CandyMuj_iwant"
+      ，"click":".vjs-big-play-button",
+      "searchable":1,"quickSearch":1,
+      "filterable":0,
+      "style":{"type":"rect","ratio":1.33},
+      "ext":"192.168.101.11:10031"
+    },
+    {"key":"csp_CandyMuj_rou",
+      "name":"💖肉视频(墙外)",
+      "type":3,
+      "api":"csp_CandyMuj_rou",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "style":{"type":"rect","ratio":1.33},
+      "ext":"192.168.101.11:10031"
+    },
+   {
+     "key":"玉兔资源",
+     "name":"🍓玉兔资源(直连)",
+     "type":0,
+     "api":"https://apiyutu.com/api.php/provide/vod/at/xml/",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1
+   },
+    {
+      "key":"nivod18",
+      "name":"🍓泥巴cat(墙外)",
+      "type":3,
+      "api":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/cat/js/nivod_op.js",
+      "filterable":1,
+      "ext":"做爱"
     },
     {
-      "key": "cc",
-      "name": "请勿相信视频中任何广告",
-      "type": 3,
-      "api": "csp_fan",
-      "searchable": 0,
-      "quickSearch": 0
-    }
+      "key":"lf_js_lf_live",
+      "name":"🍓直播(直连)(蜂蜜)",
+      "type":3,
+      "api":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_live_min.js",
+      "searchable":1,
+      "changeable":0,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/js/lf_live1.txt"
+    },
+   {
+     "key":"timizy",
+      "name":"🍓甜蜜资源 (直连)",
+      "type":1,
+      "api":"https://timizy10.cc/api.php/provide/vod/?ac=list",
+      "searchable":1,
+      "changeable":1,
+      "quickSearch":1,
+      "filterable":1},
   ],
   "parses": [
     {
