@@ -4,13 +4,21 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "🌕公众号【神秘的哥哥们】",
+      "name": "陈大佬专属",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
+    {"key":"timizy",
+      "name":"🍓甜蜜资源 (直连)",
+      "type":1,
+      "api":"https://timizy10.cc/api.php/provide/vod/?ac=list",
+      "searchable":1,
+      "changeable":1,
+      "quickSearch":1,
+      "filterable":1},
     {
       "key": "玩偶哥哥",
       "name": "👽玩偶哥哥┃4K弹幕",
